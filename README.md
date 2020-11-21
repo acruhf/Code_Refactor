@@ -8,7 +8,7 @@ The aim of this project was to take an existing website for a company and refact
 https://acruhf.github.io/Homework_01-Code_Refactor/
 
 ## Screenshot of Finished Site
-![screenshot](assets/Screenshots/HW-Screenshot "Site Preview")
+![screenshot](assets/Screenshots/HW-Screenshot.png "Site Preview")
 
 ### Credits
 Collaborated with Amanda Wiehrs, Kiara Ferguson, Jason Gibson, & Gabe Reickart
